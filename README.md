@@ -1,7 +1,7 @@
 ## Probabilistic Forecasts with Darts
 
 ## Overview
-This repository contains code for probabilistic forecasting on the Rossmann sales dataset using the Python library Darts in combination with the Optuna optimizer.
+This repository contains code for probabilistic forecasting on the Rossmann sales dataset using the Python library Darts in combination with the Optuna optimizer and MLFlow.
 
 ## Dataset
 The dataset used in this project is the Rossmann Store Sales data from Kaggle:
